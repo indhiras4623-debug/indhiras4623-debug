@@ -1,11 +1,7 @@
-<!-- Simple Clean Banner -->
-<img src="https://via.placeholder.com/1000x220.png?text=Welcome+to+Indhira's+GitHub+Profile" />
-
-<h1 align="center">👋 Hi, I'm Indhira!</h1>
-
 <p align="center">
-  🌱 Aspiring Data Analyst • Learning SQL, Python, Power BI  
+  <img src="https://raw.githubusercontent.com/Indhiras6423/indhiras4623-debug/main/new%20cover%20sheet.png" width="100%">
 </p>
+
 
 ---
 
